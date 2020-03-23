@@ -1,13 +1,7 @@
 ## Installation
 
-1. Clone repo
-2. run `npm install`
+Fullstack-w-login-class-
+21 Savage Fan Page with login
+Only shows messages from user
 
-## Usage
-
-1. run `node server.js`
-2. Navigate to `localhost:8080`
-
-## Credit
-
-Modified from Scotch.io's auth tutorial
+## 
